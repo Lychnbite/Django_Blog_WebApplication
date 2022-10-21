@@ -1,7 +1,6 @@
 # Django_Blog_WebApplication
  Learn_Django_Basics
- You will learn to create     created the views, templates, and URLs for your blog, 
-including object pagination
+ You will learn to create
  > Views
  > Templates
  > URLs
